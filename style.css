@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  background-color: #f4f4f4;
+}
+
+.container {
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.result {
+  margin-top: 20px;
+}
+
+.result img {
+  max-width: 320px;
+  margin-top: 128px;
+}
